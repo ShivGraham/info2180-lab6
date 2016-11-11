@@ -1,0 +1,33 @@
+body
+{
+    margin-left: 20px;
+    background-color: #E1C8E3;
+}
+
+#result 
+{
+    background-color: white;
+}
+
+button
+{
+    font-family: sans-serif;
+    font-size: 14px;
+    border-radius: 4px;
+    padding: 5px 5px 5px 5px;
+}
+
+#SearchBtn 
+{
+    border: 2px solid #3fd2f3;
+}
+
+#DefBtn 
+{
+    border: 2px solid #FEFEA1;
+}
+
+button:hover {
+    background-color: #C1C8DC; 
+    color: white;
+}
