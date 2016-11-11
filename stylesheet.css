@@ -1,0 +1,17 @@
+button
+{
+    font-family: sans-serif;
+    font-size: 14px;
+    border-radius: 4px;
+    padding: 5px 5px 5px 5px;
+}
+
+#SearchBtn 
+{
+    border: 2px solid #3fd2f3;
+}
+
+#DefBtn 
+{
+    border: 2px solid #FEFEA1;
+}
